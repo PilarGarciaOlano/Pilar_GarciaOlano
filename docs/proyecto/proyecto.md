@@ -5,4 +5,18 @@ hide:
 
 # Ideas Iniciales
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mi proyecto surge del cruce y la relación acción reacción del acto de comer, preparar la comida y el "desperdicio" que se genera.
+
+Con el fin de enfocar el universo comida-basura(?) elegí investigar sobre el consumo y descarte de la yerba mate, siendo que en uruguay se generan 35 millones de kilos de "basura".
+
+Bajo el lema "la basura no se define por lo que es, si no por donde está", me propongo analizar el circuito de la yerba desde su origen, consumo y disposición a fin de encontrar una oportunidad (o varias) para ingresarla a un circuito circular.
+
+Navegando por la red dí con una nota de unos investigadores argentinos que descubrieron que el residuo de la yerba mate se puede transformar en carbón activado para diversas aplicaciones, desde filtros a supercapitores (con mejores resultados que el carbón activado de origen vegetal que actualmente se encuentra en el mercado)
+Logré conversar con Florencia Jerez, una de las científicas involucradas en la investigación. Vimos la posibilidad de desarrollar "cartuchos"- contenedores para el carbón activado para sus diferentes aplicaciones.
+A mi me llamó la atención la capacidad del carbón activado de absorver el CO2 que se genera por la carbonización de la yerba y la posibilidad de "desorber" el gas para recuperarlo y darle utilidad.
+
+También googleando encontré que se pueden hacer macetas con yerba descartada. Siguiendo las instrucciones de videos de you tube hice mi propia experiencia:
+
+Imagen con secuencia
+
+Video que imita a la poisibilidad de una impresora 3D
