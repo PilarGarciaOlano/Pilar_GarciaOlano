@@ -6,4 +6,4 @@ Mi nombre es Pilar García Olano, me defino como una buscadora. Llevo 44 veranos
 Tengo un emprendimiento de furoshikis que se llama Imonai, es una propuesta de envoltorios reutilizables, como alternativa al uso del papel de regalo.
 Continuara...
 
-**[(https://community.emergentfutures.io/courses/5566525/content)]**
+**[(https://www.instagram.com/imonai.furo/)]**
