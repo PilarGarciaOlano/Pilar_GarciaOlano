@@ -18,5 +18,14 @@ A mi me llamó la atención la capacidad del carbón activado de absorver el CO2
 También googleando encontré que se pueden hacer macetas con yerba descartada. Siguiendo las instrucciones de videos de you tube hice mi propia experiencia:
 
 Imagen con secuencia
+![](../images/p20240517macetasdeyerba.jpg)
 
-Video que imita a la poisibilidad de una impresora 3D
+
+Video que imita a la poisibilidad de una impresora 3D 
+<video controls src="../images/20240523macetadeyerba.mp4" title="Title"></video>
+
+
+También estuve reflexionando sobre la posibilidad de recuperar semillas de las frutas que son usados en la preparación de alimentos en el ámbito doméstico.
+![](../images/p20240517reflexionandosemillas.jpg)
+
+Continuará.
