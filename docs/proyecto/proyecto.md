@@ -21,9 +21,8 @@ Imagen con secuencia
 ![](../images/p20240517macetasdeyerba.jpg)
 
 
-Video que imita a la poisibilidad de una impresora 3D 
-![](../images/20240523macetadeyerba.mp4)
-<video controls src=20240523macetadeyerba.mp4" title="Title"></video>
+Video que imita a la posibilidad de una impresora 3D 
+<video controls src="../images/20240523macetadeyerba.mp4" title="extrusora"></video>
 
 También estuve reflexionando sobre la posibilidad de recuperar semillas de las frutas que son usados en la preparación de alimentos en el ámbito doméstico.
 ![](../images/p20240517reflexionandosemillas.jpg)
